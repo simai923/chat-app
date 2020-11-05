@@ -21,13 +21,15 @@
   text-decoration: none;
 }
 
-.create-room a {
+.create-room {
   font-size: 10px;
-  color: deepskyblue;
+}
+
+.create-room a {
   border: solid 1px lightblue;
-  text-decoration: none;
   padding: 14px;
-  margin-right: 20px;
+  color: deepskyblue;
+  text-decoration: none;
 }
 
 .rooms {
